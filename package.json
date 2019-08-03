@@ -1,0 +1,16 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "file reader",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "xlsx": "^0.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yubi",
+  "license": "ISC"
+}
